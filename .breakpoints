@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Animales/Animal.py": [
+      {
+        "id": "a66d5a1a-8365-49f2-ae56-a1eab3444d40",
+        "line": 1,
+        "version": 241,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "a128dcb8-d7d1-4d62-a17c-c7f191a3f1c4",
+        "line": 22,
+        "version": 825,
+        "index": 466
+      }
+    ]
+  }
+}
